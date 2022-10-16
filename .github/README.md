@@ -42,7 +42,7 @@ Planned Features</h3></th></tr><tr><td>
  - Smart Filtering/Blocking/Discovery
  - Preventing CPU Rendering by default </td></tr></table>				
 
-  <details><summary align="left"><code><h2>&nbsp;&nbsp;&nbsp;
+  <details><summary align="center"><code><h2>&nbsp;&nbsp;
 🏝<code><code>⛵<code><code>🏕<code> To-Do</code>List</code></code></h2>&nbsp;&nbsp;</code></code></summary>
 	
 ##### **1.** **<code>[ ]</code>** [**<code>Documentation, wiki, screenshots, video, ...</code>**](https://github.com/code-for-charity/YouTube-Extension/wiki "We need to help people learning as easily as possible about our 90+ features. (Drafts welcome. This will become 🛈tooltips in the extension too!")</code>
@@ -79,7 +79,7 @@ Planned Features</h3></th></tr><tr><td>
        - 4.) Click on `Debug Add-ons` (*about:debugging#/runtime/this-firefox*)
          - 5.) Click on `Load Temporary Add-on…`
            - 6.) Select the `manifest.json` file from unzipped folder
-</details><details><summary align="left"><code><h2>&nbsp;&nbsp;
+</details><details><summary align="center"><code><h2>&nbsp;
 <code>🎁 Extensions/Projects</h2></code>&nbsp;▼</code></summary>
 	
 ### Extensions
